@@ -250,12 +250,12 @@ h6 {
   min-width: 300px;
 }
 
-#hero h1 {
-  margin: 0 0 10px 0;
-  font-size: 64px;
+#hero h3 {
+  margin: 0 10px 10px 10px;
+  font-size: 40px;
   font-weight: 700;
   line-height: 56px;
-  color: #fff;
+  color: #040b14;
 }
 
 #hero p {
